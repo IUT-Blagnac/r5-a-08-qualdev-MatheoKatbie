@@ -1,6 +1,6 @@
-= TP Cucumber - Is it Friday yet?
+= TP1 
 
-== Feature File Content
+== Fichiers
 
 [source,gherkin]
 ----
